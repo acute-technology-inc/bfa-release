@@ -51,4 +51,4 @@ devices. Thus, you may need to install the udev rule file that you can obtain fr
 
 ## Troubleshooting
 
-See [Troubleshooting guide](https://github.com/acute-technology-inc/tl-release/blob/main/TROUBLESHOOTING.md) if you encounter any issues regarding the application.
+See [Troubleshooting guide](https://github.com/acute-technology-inc/bfa-release/blob/main/TROUBLESHOOTING.md) if you encounter any issues regarding the application.
