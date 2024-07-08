@@ -1,8 +1,8 @@
 # Troubleshooting
 
-This guide is for troubleshooting software on Linux platforms.
+This guide is for troubleshooting application on Linux platforms.
 
-## Fail to launch the software
+## Fail to launch the application
 
 - Since **AppImage** requires FUSE to work properly, you might see `dlopen(): error loading libfuse.so.2` where some distributions does not come with [`FUSE`](https://packages.debian.org/bookworm/libfuse2) library by default.  For **Ubuntu**, **Debian** and their derivatives, here is the solution to make it works smoothly.
 
