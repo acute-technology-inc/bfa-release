@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 ### What operating system and version?
  - OS: [e.g. Ubuntu 22.04]
 
-### What version of application  are you using?
+### What version of application are you using?
  - Version: [e.g. 2.0.0]
 
 ### What did you expect to see?
